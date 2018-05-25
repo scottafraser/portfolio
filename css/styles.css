@@ -12,9 +12,8 @@ body {
   font-weight: lighter;
 }
 .jumbotron {
-  background-image: url("img/mtn.jpeg");
-    background-color:transparent !important;
-}
+  background-color:transparent !important;
+  font-family: 'Amatic SC', cursive;
 }
 
 .jumbotron img {
@@ -26,9 +25,6 @@ body {
 p
 a {
   float: left
-}
-.navbar navbar-dark bg-primary {
-  padding-top: 600px;
 }
 
 .card img{
@@ -82,6 +78,9 @@ dd {
   font-style: italic;
 }
 
-nav {
-  margin-top: 30px;
+#footer {
+  text-align: center;
+  font-size: 10px;
+  font-style: oblique;
+  font-weight: lighter;
 }
