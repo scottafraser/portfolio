@@ -7,6 +7,10 @@ body {
     background-image: url(../img/topography.png);
 }
 
+.description {
+  font-style: italic;
+  font-weight: lighter;
+}
 .jumbotron {
   background-image: url("img/mtn.jpeg");
     background-color:transparent !important;
