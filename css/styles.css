@@ -3,16 +3,20 @@ button:hover, a:hover {
     opacity: 0.7;
 }
 
-
+.jumbotron {
+  background-image: url("img/mtn.jpeg");
+}
 
 .jumbotron img {
-  padding-bottom: 20px;
+  padding-bottom: ;
+  box-shadow: 5px 5px;
 }
 
-.my-4 {
-  clear: right;
+.jumbotron
+p
+a {
+  float: left
 }
-
 .navbar navbar-dark bg-primary {
   padding-top: 600px;
 }
