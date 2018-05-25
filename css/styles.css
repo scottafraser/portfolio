@@ -16,3 +16,14 @@ button:hover, a:hover {
 .navbar navbar-dark bg-primary {
   padding-top: 600px;
 }
+
+.card img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-title {
+  padding-top: 20px;
+   
+}
