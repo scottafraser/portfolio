@@ -3,10 +3,16 @@ button:hover, a:hover {
     opacity: 0.7;
 }
 
+
+
 .jumbotron img {
   padding-bottom: 20px;
 }
 
 .my-4 {
   clear: right;
+}
+
+.navbar navbar-dark bg-primary {
+  padding-top: 600px;
 }
