@@ -33,5 +33,4 @@ Scott Fraser
 ## License
 
 This project is licensed under the MIT License
-
-## Acknowledgments
+Copyright (c) 2018 Copyright Holder All Rights Reserved.
