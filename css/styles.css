@@ -3,6 +3,11 @@ button:hover, a:hover {
     opacity: 0.7;
 }
 
+body {
+    background-image: url(../img/cloudy-day.png);
+
+}
+
 .jumbotron {
   background-image: url("img/mtn.jpeg");
 }
