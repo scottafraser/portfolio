@@ -42,7 +42,7 @@ a {
   padding-bottom: 20px;
 }
 
-.card a {
+.btn {
   position: absolute;
   bottom: 0;
   margin-bottom: 10px;
@@ -65,8 +65,16 @@ blockquote {
   text-align: center;
 }
 
+h5 {
+  text-align: center;
+}
+
 h2 {
   text-align: center;
+  font-style: italic;
+}
+
+dd {
   font-style: italic;
 }
 
