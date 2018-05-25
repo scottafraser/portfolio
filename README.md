@@ -10,9 +10,9 @@ Includes proper use of HTML tags, a custom-made style sheet, use of the box mode
 
 ### Setup
 
-* Open Terminal.
+* Open Terminal
 
-* Type git clone, and then paste the URL you copied in Step 2.
+* Type
 ``
 $ git clone https://github.com/scottafraser/portfolio
 ``
